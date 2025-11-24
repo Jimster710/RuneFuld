@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jimster710.github.io/RuneFuld",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "/Excalidraw", "/DmZone"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

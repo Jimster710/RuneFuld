@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the West Marches!
 ---
 
-Please rebuild dang it.
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Eventually, this will be absolutely ***incredible.*** 
+
+Just need to add a few notes!

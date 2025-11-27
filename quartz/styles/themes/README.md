@@ -5,9 +5,9 @@
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/its-theme.ttrpg-dnd/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/its-theme.ttrpg-wotc/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/its-theme.ttrpg-dnd)
+[Open live preview (Publish)](https://publish.saberzero.one/its-theme.ttrpg-wotc)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: its-theme.ttrpg-dnd
+  THEME_NAME: its-theme.ttrpg-wotc
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh its-theme.ttrpg-dnd
+./action.sh its-theme.ttrpg-wotc
 ```
 
 ### Manual install

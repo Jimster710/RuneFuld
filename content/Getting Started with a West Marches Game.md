@@ -5,7 +5,7 @@ You are about to embark upon epic quests, earn loot, fight monsters, and gain fa
 **First, some explanation-**
 A West Marches Dungeons and Dragons game is a style of play that involves a group of adventurers journeying into the unsettled wilderness. There may be a border town nearby, but out west is where the real magic happens! You undertake adventures for fame, magic items, XP, and most importantly, for gold!
 
-Here's how it works-a player or group of players want to journey to a specific hex on the map, a game session is organized, and a session is ran. Your character may live or die out there in the wilderness, but at the end of the session-everyone returns to the border town ready for the next adventure. This makes it super easy to drop in and drop out even if your schedule changes on the fly, because you only play in games you can make it to! If a time doesn't work for you, you could suggest another time in session planning and see if a DM can run it for you. There are no multi-session arcs, although there can be multi-session dungeons. 
+Here's how it works-a player or group of players want to journey to a specific hex on the map, a game session is organized, and a session is ran. Your character may live or die out there in the wilderness, but at the end of the session-everyone returns to the border town ready for the next adventure. This makes it quite easy to drop in and drop out even if your schedule changes on the fly, because you only play in games you can make it to! If a time doesn't work for you, you could suggest another time in session planning and see if a DM can run it for you. There are no multi-session arcs, although there can be multi-session dungeons. 
 
 **Ready to start? Here's what you'll need!**
 

@@ -1,4 +1,4 @@
-## Brave Adventurers Welcome
+## Weave an Epic Tale
 
 You are about to embark upon epic quests, earn loot, fight monsters, and gain fame and fortune in the West Marches!
 
@@ -49,13 +49,13 @@ Membership in these guilds comes with benefits, but must be earned! Membership i
 You can only belong to one guild at a time.
 
 *The Circle*
-The Circle is a collection of Druids, Barbarians, Monks, and Sorcerers. Their goal is to avoid disturbing the natural order of forces and balance in the Marches, but they don't mind as much if powerful magical items happen to fall into their hands. They love the forces of the Fey, and they despise Constructs and Aberrations. 
+The Circle is a collection of Druids, Barbarians, Monks, and Sorcerers. Their goal is to avoid disturbing the natural order of forces and balance in the Fuld, but they don't mind as much if powerful magical items happen to fall into their hands. They love the forces of the Fey, and they despise Constructs and Aberrations. 
 
 *The Venture Guild*
-The Venture Guild are a collection of Rangers, Rogues, Warlocks, and Fighters. Their goal is to settle the marches, but in reality it is to find as much treasure as possible. They love any monster that gives them money, and they despise Dragons.
+The Venture Guild are a collection of Rangers, Rogues, Warlocks, and Fighters. Their goal is to settle the Fuld, but in reality it is to find as much treasure as possible. They love any monster that gives them money, and they despise Dragons.
 
 *The Domain*
-The Domain is a collection of Clerics, Paladins, Bards, and Wizards. Their goal is to civilize, find holy relics and sites, and cleanse the marches of evil. They love Celestial forces, and they despise the Undead.
+The Domain is a collection of Clerics, Paladins, Bards, and Wizards. Their goal is to civilize, find holy relics and sites, and cleanse the Fuld of evil. They love Celestial forces, and they despise the Undead.
 
 **Membership Rewards**
 The Circle-

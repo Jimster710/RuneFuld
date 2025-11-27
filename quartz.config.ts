@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "RuneFuld",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -17,14 +17,14 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "jimster710.github.io/RuneFuld",
-    ignorePatterns: ["private", "templates", ".obsidian", "/Excalidraw", "/DmZone"],
+    ignorePatterns: ["private", "templates", ".obsidian", "/Excalidraw", "/Pictures", "/DmZone"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Metamorphous",
+        body: "Goudy Bookletter 1911",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -68,6 +68,7 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
+      Plugin.HardLineBreaks(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),

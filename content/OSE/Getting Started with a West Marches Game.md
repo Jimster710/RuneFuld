@@ -11,18 +11,16 @@ Here's how it works-a player or group of players want to journey to a specific h
 
 Access to the Discord server-https://discord.gg/zFSjGGKR2n
 
-Everyone will always have three active characters. It's your choice as to their classes and abilities, so build them as normal. Every new character starts at level 3, but if they survive, they'll get to keep those sweet bits of gear and XP. 
+Start with [[Character Creation]]. Feel free to drop questions into the discord. We can arrange a call or Session 0 to roll characters because the process is quite quick.
 
-If you lose a character during an adventure, you can swap in one of your other characters on the fly. 
+If you lose a character during an adventure, your retainers can get stat rolls, or you can bring in one of your spares.
 
-
-In person sessions grant a 10% XP bonus. Hurray for social interaction!
 
 DMs get 1/2 of the XP for any game that they run. You didn't even have to risk a character and you still get a reward, look at that! (Even more reason to go out and DM some games)
 
 
 **Regarding the map...**
-The farther west you go, the more dangerous the enemies become, but the greater the rewards. Some zones have level minimums. At least half of the party must be at or above the level minimum to venture there. 
+In the original West Marches game the farther west you went, the more dangerous the enemies became, but the greater the rewards. In this particular game it has more to do with distance from a settlement than the distance traveled west. Some zones have level minimums. At least half of the party must be at or above the level minimum to venture there. 
 
 **Gold is actually useful!**
 

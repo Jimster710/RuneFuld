@@ -5,7 +5,11 @@ Welcome all! This site is broken up into three sections. Traveller, a science-fi
 
 # Dungeons & Dragons
 ## Welcome Brave Heroes!
+This is the big game-hosted Mondays in person at one of two amazing host setups!
 
+Featuring the crunchy D&D 5.5/ 2024 ruleset-you can get access to all the character creation tools and rulebooks by joining the campaign on DND Beyond-https://www.dndbeyond.com/campaigns/join/59078602622436321
+
+OR this if the above link is full of players-[backup](https://www.dndbeyond.com/campaigns/join/74462611469014492).
 
 
 # Sci-fi / Traveller

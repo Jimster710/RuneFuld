@@ -24,8 +24,10 @@ Mycelian, Tiefling*
 *Arcane Bard, Halfling Hearthsinger, Halfling Reeve*
 **Carcass Crawler 5**
 *Changelings and Ratlings*
+**Carcass Crawler 6**
+*Dwarf Brewmaster and Dwarf Runesmith*
 
-In addition, you can play as the completely homebrewed [[Goatkin]] class. 
+In addition, you can play as the homebrew-adapted [[Breggle]] class (Goatkin).
 
 4. We are using THAC(0) scores instead of ascending AC. It is a difficult thing to explain, but actually super easy to use in practice. 
 
@@ -33,9 +35,9 @@ In addition, you can play as the completely homebrewed [[Goatkin]] class.
 
 It is equally likely that you could roll a 2, re roll, and roll a 1 for the second result. In that case, you'd use the 2 for your HP.
 
-6. Roll for your secondary skill as outlined on Step 13 of the Basic Character creation method.
+6. Please do roll for your secondary skill as outlined on Step 13 of the Basic Character creation method.
 
-7. You can select equipment from the equipment section in the Player's Tome and/or from the equipment section in Carcass Crawler 3.
+7. You can select equipment from the equipment section in the Player's Tome and/or from the expanded equipment section in Carcass Crawler 3.
 
 
 

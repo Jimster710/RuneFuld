@@ -31,6 +31,8 @@ Mycelian, Tiefling*
 *Changelings and Ratlings*
 ### **Carcass Crawler 6**
 *Dwarf Brewmaster and Dwarf Runesmith*
+### Necromancer
+*The Necromancer is in a separate .pdf in the drive.*
 
 In addition, you can play as the homebrew-adapted [[Breggle]] class (Goatkin).
 

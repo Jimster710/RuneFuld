@@ -6,6 +6,7 @@ Every character starts with 10 slots, but that is adjusted by twice your CON mod
 > 
 > A CON score of 13 is a modifier of +1. Twice that modifier is +2, and so you'd have 12 slots.
 
+Characters wearing light armor or no armor are able to add an additional slot.
 
 Here's an example table of how many slots each piece of gear takes up:
 
@@ -33,3 +34,16 @@ Here's an example table of how many slots each piece of gear takes up:
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Backpack                                                                    | +3 Slots                                                                                                                                                                                  |
 | Small items such as a chisel, magnifying glass, a tinderbox, or a gemstone. | Each full slot can hold up to five of these tiny items. Alternatively, mark off two slots permanently for "Small Equipment", and just don't pack the entire kitchen sink into that space. |
+
+### Movement Speed
+Movement speed is determined by amount of inventory slots filled (unless heavy armor is worn). Exploration and travel is the first number and in-combat speed is the second number.
+
+**Light, Medium, or No armor**
+Half of your slots or less- 120' (40')
+More than half slots, less than full- 90' (30')
+Full slots- 60' (20')
+
+**Heavy Armor**
+Half of your slots or less - 90' (30')
+More than half slots, less than full-60' (20')
+Full slots- 30' (10')

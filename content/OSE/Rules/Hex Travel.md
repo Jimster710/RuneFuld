@@ -20,7 +20,7 @@ Wagons suffer fewer ill effects from being pushed to cover more distance-since b
 	- Slow, cautious. Covers half a hex and day in normal conditions. Reduced chance of being surprised.
 	- Regular. Full hex in a day in normal conditions.
 	- Pushing, fast. Hex and a half. Increased risk of being surprised. 
-- Two adventurers cover the watch for the day. They roll for their ability to navigate. 
+- Two adventurers cover the watch for the day. They may need to roll for their ability to navigate. 
 - Mark off rations. 
 - How are you camping?
 	- Safe. Carefully selected site with overlapping watches. Reduced risk of overnight encounters. Later start the next day, also farther off the beaten path. Half a hex maximum the next day.

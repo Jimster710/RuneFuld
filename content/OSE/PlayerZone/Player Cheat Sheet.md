@@ -1,3 +1,5 @@
+Also, refer to [[OnePageOSE_Reference.pdf]]
+
 ### How do I move through the Wilderness?
 Refer to [[Hex Travel]] for speeds and other considerations. 
 

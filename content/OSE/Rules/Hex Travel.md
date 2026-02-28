@@ -1,4 +1,4 @@
-In the spring, summer, or fall the rules below will apply. In the case of winter travel, half the walking distances. Mounts are less effected. Carts may be unmoveable, or may be unaffected, depending on weather.
+In the spring, summer, or fall the rules below will apply. In the case of winter travel, half the walking distances. Mounts are less effected. Carts may be unmovable, or may be unaffected, depending on weather.
 
 An adventurer can cover a whole hex (24 miles) in a day on flat terrain with decent weather. Traveling in this way makes surprise on the way less likely, but the travel rate is slower (which increases ration use and daily pay for hirelings). 
 

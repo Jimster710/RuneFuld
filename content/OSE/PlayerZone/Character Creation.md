@@ -38,9 +38,9 @@ In addition, you can play as the homebrew-adapted [[Breggle]] class (Goatkin).
 
 4. We are using THAC(0) scores instead of ascending AC. It is a difficult thing to explain, but actually super easy to use in practice. 
 
-5. Re-roll 1s and 2s when determining first level HP. For example, if your Hit Die is 1d4, and you roll a 2 when determining HP, you re roll it, roll a 3, and use the 3 for your HP. 
+5. Use Max HP of the hit die + or - CON modifier when determining first level HP.
 
-It is equally likely that you could roll a 2, re roll, and roll a 1 for the second result. In that case, you'd use the 2 for your HP.
+Yup-that means a magic user with a bad CON score could have 3 HP, or even 2HP. It's brutal at low levels! 
 
 6. Please do roll for your secondary skill as outlined on Step 13 of the Basic Character creation method.
 

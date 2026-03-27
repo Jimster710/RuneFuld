@@ -1,4 +1,4 @@
-1d20 connections or obligations
+1d20 connections or obligations to roll during character creation.
 
 1. You have a partner, and maybe children in a nearby town. A portion of your income (10%) must go to supporting them -or face the consequences. You and your party never gain max heat in that town and can rest there for free.
 2. You are an orphan, and you need to strike a deal with a safe town to move the orphanage to. You feel morally obligated to do so, but are under no contract.

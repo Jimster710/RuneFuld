@@ -16,6 +16,8 @@ All Martial classes (Fighter, Dwarf, etc.) get a save vs. death upon being reduc
 	- Magic-Users gain access to all spells for the level at which they can cast. They have to choose which to prepare, but they immediately have access to all of the spells.
 - Necromancer
 	- Necromancers get random cantrips (2 at level 1) from the rules in Carcass Crawler 5. The optional read magic cantrip is not allowed.
+- Entire [[Breggle]] Class
+- Changeling class is weak to silver, and would probably hate to carry the coins! Certain types of magic effective against shape-shifters in general will also effect them.
 
 
 ## General Changes

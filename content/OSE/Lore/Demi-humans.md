@@ -1,0 +1,1 @@
+Demi-humans such as Elves and Dwarves are tolerated-mostly because of their skill in clearing the wilds and the dungeons of deadly creatures. 

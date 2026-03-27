@@ -11,11 +11,11 @@ Old School Essentials uses a Race-as-Character Class system, meaning that if you
 
 We are mostly following the basic method outlined on Page 16 (or 18 in the PDF) of the Player's Tome. Options and Homebrew are listed on this page and on-[[List of Homebrew and Optional Changes]]. There are changes to specific classes on that page as well.
 
-1. We are not using the advanced method of character creation, and we are not using weapon proficiencies.
+1. We are not using the advanced method of character creation, and we are not using weapon proficiency. Use the basic character creation method on page 16 and 17 of the OSE Player's Tome.
 
 2. You can swap the placement of two of your rolled stats up to twice. For example, you could swap your CON and DEX scores and then swap your WIS and INT scores.
 
-3. Additional classes are available, but they are rarer. You must have at least a 16 in the prime requisite stat of the alternative races. If there are two prime requisite stats, you'll need a 16 in one and at least a 13 in the other. If you can roll and meet the requirements, then pick any class from the following sourcebooks (you can find them in the drive):
+3. Additional classes are available and listed here, but they are rarer. You must have at least a 16 in the prime requisite stat of the alternative races. If there are two prime requisite stats, you'll need a 16 in one and at least a 13 in the other. If you can roll and meet the requirements, then pick any class from the following sourcebooks (you can find them in the drive):
 
 ### **Carcass Crawler 1**
 *Acolyte, Gargantua, Goblin, Hephaestan,*
@@ -36,16 +36,17 @@ Mycelian, Tiefling*
 
 In addition, you can play as the homebrew-adapted [[Breggle]] class (Goatkin).
 
-4. We are using THAC(0) scores instead of ascending AC. It is a difficult thing to explain, but actually super easy to use in practice. 
+4. We are using THAC(0) scores instead of ascending AC. It is a difficult thing to explain, but actually super easy to use in practice. Just roll and look at a table. No adding anything. 
 
 5. Use Max HP of the hit die + or - CON modifier when determining first level HP.
 
 Yup-that means a magic user with a bad CON score could have 3 HP, or even 2HP. It's brutal at low levels! 
 
 6. Please do roll for your secondary skill as outlined on Step 13 of the Basic Character creation method.
-
-7. You can select equipment from the equipment section in the Player's Tome and/or from the expanded equipment section in Carcass Crawler 3.
-8. [[Slot based encumbrance]] system.
+7. You can select equipment from the equipment section in the Player's Tome and/or from the expanded equipment section in Carcass Crawler 3. Equipment is important!
+8. Please read the [[Slot based encumbrance]] system.
+9. Roll once on the [[Connections and Obligations]] table. 
+10. Take a look at the [[Player Cheat Sheet]].
 
 
 

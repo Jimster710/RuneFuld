@@ -18,22 +18,22 @@ Here's an example table of how many slots each piece of gear takes up:
 | A large sack filled with 600 coins         | 2     |
 | 100 coins, stuffed and carried haphazardly | 1     |
 | A bundle of 6 Torches                      | 1     |
-| A shield                                   | 1     |
-| Light Armor (Leather)                      | 1     |
-| Medium Armor (Chain)                       | 2     |
-| Heavy Armor (Plate)                        | 3     |
+| A shield (regardless of being held)        | 1     |
+| Carried Light Armor (Leather)              | 1     |
+| Carried Medium Armor (Chain)               | 2     |
+| Carried Heavy Armor (Plate)                | 3     |
 | A one-handed weapon                        | 1     |
 | A two-handed weapon                        | 2     |
 | A single ration bundle (7 days)            | 1     |
-|                                            |       |
+| Equipped Armor                             | 0     |
 
 ### Special Items & Small Items
 
 
-| Special Item                                                                | Slot Effect                                                                                                                                                                               |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Backpack                                                                    | +3 Slots                                                                                                                                                                                  |
-| Small items such as a chisel, magnifying glass, a tinderbox, or a gemstone. | Each full slot can hold up to five of these tiny items. Alternatively, mark off two slots permanently for "Small Equipment", and just don't pack the entire kitchen sink into that space. |
+| Special Item                                                                             | Slot Effect                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Backpack                                                                                 | +3 Slots                                                                                                                                                                                  |
+| Small items such as a chisel, magnifying glass, a tinderbox, empty sacks, or a gemstone. | Each full slot can hold up to five of these tiny items. Alternatively, mark off two slots permanently for "Small Equipment", and just don't pack the entire kitchen sink into that space. |
 
 ### Movement Speed
 Movement speed is determined by amount of inventory slots filled (unless heavy armor is worn). Exploration and travel is the first number and in-combat speed is the second number.

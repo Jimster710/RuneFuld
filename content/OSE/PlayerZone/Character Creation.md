@@ -11,7 +11,8 @@ Old School Essentials uses a Race-as-Character Class system, meaning that if you
 
 We are mostly following the basic method outlined on Page 16 (or 18 in the PDF) of the Player's Tome. Options and Homebrew are listed on this page and on-[[List of Homebrew and Optional Changes]]. There are changes to specific classes on that page as well.
 
-1. We are not using the advanced method of character creation, and we are not using weapon proficiency. Use the basic character creation method on page 16 and 17 of the OSE Player's Tome.
+1. We are not using the advanced method of character creation, and we are not using weapon proficiency. Use the basic character creation method on page 16 and 17 of the OSE Player's Tome. Get ready to roll for Stats! Check out [[Which Class?]]
+
 
 2. You can swap the placement of two of your rolled stats up to twice. For example, you could swap your CON and DEX scores and then swap your WIS and INT scores.
 

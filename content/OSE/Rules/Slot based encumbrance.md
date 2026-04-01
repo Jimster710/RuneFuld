@@ -26,6 +26,7 @@ Here's an example table of how many slots each piece of gear takes up:
 | A two-handed weapon                        | 2     |
 | A single ration bundle (7 days)            | 1     |
 | Equipped Armor                             | 0     |
+| Equipped Waterskin                         | 0     |
 
 ### Special Items & Small Items
 
@@ -34,6 +35,7 @@ Here's an example table of how many slots each piece of gear takes up:
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Backpack                                                                                 | +3 Slots                                                                                                                                                                                  |
 | Small items such as a chisel, magnifying glass, a tinderbox, empty sacks, or a gemstone. | Each full slot can hold up to five of these tiny items. Alternatively, mark off two slots permanently for "Small Equipment", and just don't pack the entire kitchen sink into that space. |
+|                                                                                          |                                                                                                                                                                                           |
 
 ### Movement Speed
 Movement speed is determined by amount of inventory slots filled (unless heavy armor is worn). Exploration and travel is the first number and in-combat speed is the second number.

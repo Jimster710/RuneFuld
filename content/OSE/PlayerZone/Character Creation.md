@@ -2,9 +2,9 @@ Welcome to Old School Essentials! It's a much cleaner version of the 1980s B/X a
 
 Character creation steps are outlined in the [Players Tome](https://drive.google.com/file/d/1NF3dOUkLHD7QIpDbkFa6p_zkpzMKiAO6/view?usp=drive_link) which is available in the [Shared Google Drive](https://drive.google.com/drive/folders/1dhI9jAeBwND4d0TKUl_8bxYM1ImQb5vr?usp=drive_link).
 
-You'll also need character sheets-either [this](https://necroticgnome.com/products/old-school-essentials-character-sheet), [this](https://necroticgnome.com/products/old-school-essentials-underground-character-sheet), or [this](https://necroticgnome.com/products/old-school-essentials-vagabond-character-sheet) will work!
+You'll also need character sheets-either [this](https://necroticgnome.com/products/old-school-essentials-character-sheet), [this](https://necroticgnome.com/products/old-school-essentials-underground-character-sheet), or [this](https://necroticgnome.com/products/old-school-essentials-vagabond-character-sheet) will work! Printed character sheets are available. I have extras!
 
-We'll also use fantasy grounds, which is free. You can use the steam or the non-steam version. https://www.fantasygrounds.com/
+We may occasionally use fantasy grounds, which is free. You can use the steam or the non-steam version. https://www.fantasygrounds.com/
 
 
 Old School Essentials uses a Race-as-Character Class system, meaning that if you play a Dwarf, you start off as the Dwarf class instead of being a Dwarf Fighter. These races do allow you to select regular human classes under multiclassing-but that is an advanced step. If you're interested in multiclassing please read the section on multiclassing and let me (Jim) know.

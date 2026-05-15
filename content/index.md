@@ -1,7 +1,7 @@
 ---
 title: Welcome to Sikorsky Gaming!
 ---
-Welcome all! This site is broken up into three sections. Traveller, a science-fiction Tabletop Role Playing Game (TTRPG), Old School Essentials (OSE), and Dungeons and Dragons (D&D)! Traveller or OSE will be primarily online, 2 hour sessions. D&D is hosted weekly in-person on Mondays.
+Welcome all! This site is broken up into three sections. Traveller, a science-fiction Tabletop Role Playing Game (TTRPG), Old School Essentials (OSE), and Dungeons and Dragons (D&D)! Traveller or OSE will be an as-we-plan deal. D&D is hosted weekly in-person on Mondays.
 
 Please join the discord at https://discord.gg/huwm5SD3YU for scheduling!
 
